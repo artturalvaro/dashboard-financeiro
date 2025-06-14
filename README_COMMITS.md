@@ -21,7 +21,7 @@ Este projeto utiliza o padrão **Conventional Commits** para manter um históric
 ## 💡 Como criar um commit
 
 Use a estrutura:
-- <tipo>: <mensagem curta explicativa>
+- tipo: mensagem curta explicativa
 
 Exemplo:
 - feat: adicionar barra de navegação
