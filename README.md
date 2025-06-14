@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+🚀 Dashboard Financeiro
 
-First, run the development server:
+Este é o início de um projeto de Dashboard Financeiro desenvolvido com Next.js, que terá como objetivo o controle de despesas, receitas e geração de gráficos financeiros.
 
-```bash
+📦 Tecnologias Utilizadas
+- Next.js
+- React
+- Tailwind CSS (em breve)
+- TypeScript (opcional)
+
+🏗️ Status do Projeto
+🚧 Projeto em desenvolvimento...
+Atualmente iniciado com a configuração base do Next.js. As próximas etapas incluem a configuração de estilos, layout e definição da arquitetura.
+
+🔥 Como Rodar Localmente
+1️⃣ Clone o repositório
+git clone https://github.com/artturalvaro/dashboard-financeiro.git
+
+2️⃣ Instale as dependências
+npm install
+# ou
+yarn install
+
+3️⃣ Rode o servidor de desenvolvimento
 npm run dev
-# or
+# ou
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O projeto ficará disponível em http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📜 Licença
+Este projeto está sob a licença MIT.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📋 Padrão de Commits
 
-## Learn More
+Este projeto usa o padrão **Conventional Commits** para mensagens de commit organizadas.
 
-To learn more about Next.js, take a look at the following resources:
+Confira o guia completo de commits aqui:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[Guia de Commits](./README_COMMITS.md)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+💼 Autor
+Desenvolvido por [Artur Álvaro] (https://github.com/artturalvaro).
+Sinta-se livre para contribuir!
